@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# mudu sugal
+## I am a student
+### kenyan
+#### life
+##### background
+###### now
