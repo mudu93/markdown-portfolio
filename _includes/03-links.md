@@ -1,7 +1,7 @@
-[Github](mudu93)<br>
+[Github](https://github.com/mudu93)<br>
 
-[Quora](M-Mudu)
+[Quora](https://www.quora.com/profile/M-Mudu)
 
-[Medium](@mudu_sugal)
+[Medium](https://medium.com/@mudu_sugal)
 
-[Codepen](mudu93/)
+[Codepen](https://codepen.io/mudu93/)
