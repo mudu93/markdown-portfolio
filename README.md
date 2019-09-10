@@ -1,8 +1,8 @@
 ## Communicating Using Markdown
 
-Heading: #, ##, ###, ...
+Heading: 
 
-![me](me.jpg)
+
 
 
 
